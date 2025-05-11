@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog. Ceci est l'ébauche d'un blog
 ---
 
